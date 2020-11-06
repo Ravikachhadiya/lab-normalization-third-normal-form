@@ -1,0 +1,3 @@
+user_personal(user_id, u_email, fname, lname, zip)
+zip(zip, city)
+city(city, state)
